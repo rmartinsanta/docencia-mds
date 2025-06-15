@@ -1,0 +1,1 @@
+﻿2022-02-07 01:14:29.428  INFO 1174086 --- [thread1] a.p.q.PostPCheck : Bean 'eventAsyncConfigurer' of type [es.urjc.etsii.grafo.solver.services.events.EventAsyncConfigurer] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)

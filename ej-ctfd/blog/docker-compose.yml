@@ -1,0 +1,8 @@
+# Automate deployment
+version: '3'
+services:
+  blog:
+    build: .
+    ports:
+      - 8002:8002
+    restart: always
