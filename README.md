@@ -1,4 +1,6 @@
-En este repositorio iremos publicando el código fuente de las aplicaciones y retos desarrolladas para las prácticas de Metodologías de Desarrollo Seguro.
+# Aplicaciones para MDS
+
+En [este repositorio](https://github.com/rmartinsanta/docencia-mds/) iremos publicando el código fuente de las aplicaciones y retos desarrolladas para las prácticas de Metodologías de Desarrollo Seguro.
 Se irá ampliando de forma progresiva cada año, tras finalizar las correspondientes convocatorias.
 Existen dos tipos de problemas diferentes, en función de la plataforma para la que están preparados: DomJudge y CTFd.
 
