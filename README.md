@@ -4,12 +4,12 @@ En [este repositorio](https://github.com/rmartinsanta/docencia-mds/) iremos publ
 Se irá ampliando de forma progresiva cada año, tras finalizar las correspondientes convocatorias.
 Existen dos tipos de problemas diferentes, en función de la plataforma para la que están preparados: DomJudge y CTFd.
 
-## Ejercicios Domjudge
+## Retos Domjudge
 Se trata de retos que pueden ser importados en DomJudge, utilizando por ejemplo [domjudge-automation](https://github.com/rmartinsanta/domjudge-automation) para desplegarlo.
 Para subir un reto, es necesario crear un fichero comprimido ZIP en el que los ficheros `domjudge-problem.ini` y `problem.yaml` se encuentren en la raíz.
 Cada reto puede resolverse en cualquiera de los lenguajes de programación soportados por Domjudge, en la asignatura utilizamos Java y Python.
 
-## Ejercicios CTFd
+## Retos CTFd
 Retos para importar en la plataforma [CTFd](https://github.com/CTFd/CTFd), también de código abierto. Cada ejercicio es una aplicación independiente, que puede ejecutarse en local o desplegarse en un servidor remoto. Resumen:
 
 - 10fastfingers: escribe las palabras solicitadas en el menor tiempo posible, sin superar el máximo tiempo configurado. ¿Serás lo suficientemente rápido?
